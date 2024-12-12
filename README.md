@@ -1,4 +1,4 @@
-## 💫 Sobre mim:
+## Sobre mim:
 -> Estou cursando ADS (Análise e desenvolvimento de sistemas).<br>-> Estou sempre realizando cursos na área para me aperfeiçoar.<br>-> A linguagem que estudo, trabalho e tenho mais domínio é JavaScript.<br>-> Atualmente estou aprendendo a desenvolver com React JS.
 
 
